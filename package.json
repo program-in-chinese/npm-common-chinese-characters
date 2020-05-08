@@ -1,6 +1,6 @@
 {
   "name": "common-chinese-characters",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "现代汉语常用字表:常用字（2,500字）和次常用字（1,000字）两部份",
   "main": "入口.js",
   "scripts": {

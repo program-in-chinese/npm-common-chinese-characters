@@ -12,5 +12,5 @@ API 参考[单元测试](https://github.com/program-in-chinese/npm-chinese-dynas
 
 ## 运行测试
 
-`npm test`
+`npm install mocha`后, 运行: `npm test`
 
