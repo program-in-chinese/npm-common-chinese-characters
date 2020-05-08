@@ -7,6 +7,10 @@
     "test": "mocha"
   },
   "author": "nobodxbodon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/program-in-chinese/npm-common-chinese-characters.git"
+  },
   "license": "ISC",
   "dependencies": {
     "mocha": "^7.1.2"
