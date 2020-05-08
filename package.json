@@ -1,0 +1,14 @@
+{
+  "name": "common-chinese-characters",
+  "version": "0.0.2",
+  "description": "现代汉语常用字表:常用字（2,500字）和次常用字（1,000字）两部份",
+  "main": "入口.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "nobodxbodon",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  }
+}
