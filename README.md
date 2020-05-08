@@ -2,7 +2,9 @@
 
 ## 功能
 
-参考[单元测试](https://github.com/program-in-chinese/npm-chinese-dynasties/blob/master/test/%E6%B5%8B%E8%AF%95.js)
+现代汉语常用字表：常用字（2,500字）和次常用字（1,000字）两部份
+
+API 参考[单元测试](https://github.com/program-in-chinese/npm-chinese-dynasties/blob/master/test/%E6%B5%8B%E8%AF%95.js)
 
 ## 介绍文章
 
